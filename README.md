@@ -16,7 +16,7 @@
 
 以下のgoogleDriveのURLは自分のポートフォリオや「pixelGameの作品紹介」などが入っています。
 
-（ポートフォリオのゲーム作品には対外的に発表した作品のみ記載されています）
+（ポートフォリオの作品紹介には対外的に発表した作品のみ記載されています）
 
 https://drive.google.com/drive/folders/1H915r4Xf7TUzLQHPdINlstZEOuayZsp3?usp=sharing
 
